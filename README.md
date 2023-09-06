@@ -1,3 +1,3 @@
-# Sentiment Analysis on Data from 115 Websites: Unveiling Emotional Insights
+# Unveiling Emotional Insights
 
  In my project, "Sentiment Analysis on Data from 115 Websites," I undertook the task of scraping textual data from a diverse range of websites. Through this extensive data collection, I conducted sentiment analysis to discern the prevailing emotional insights within the text. By utilizing cutting-edge Natural Language Processing (NLP) techniques and Machine Learning algorithms, I successfully extracted sentiments—positive, negative, or neutral—from the compiled data. Join me on this journey of unraveling emotions as I dive deep into the text sourced from 115 websites, shedding light on the intricate emotional landscapes hidden within.
